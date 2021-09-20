@@ -1,0 +1,3 @@
+[submodule "learning-git-subproject"]
+	path = learning-git-subproject
+	url = git@github.com:rgiovanardi/learning-git-subproject.git
